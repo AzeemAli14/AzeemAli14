@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AzeemAli96
+- 👋 Hi, I’m @AzeemAli4
 - 👀 I’m interested in **MERN Stack Development**
 - 🌱 I’m currently learning **React.js**
 - 💞️ I’m looking to collaborate on **React.Js projects for beginner.**
