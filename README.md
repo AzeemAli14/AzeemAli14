@@ -31,7 +31,8 @@
 ### :eyes: Profile Views
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-[![](https://visitcount.itsvg.in/api?id=azeemali14&label=Profile%20Views&color=12&icon=5&pretty=true)]()
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azeemali14&label=Profile%20views&color=0e75b6&style=flat" alt="azeemali14" /> </p>
+<!-- [![](https://visitcount.itsvg.in/api?id=azeemali14&label=Profile%20Views&color=12&icon=5&pretty=true)]() -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
