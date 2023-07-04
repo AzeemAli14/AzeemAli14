@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Azeem Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azeemali14&label=Profile%20views&color=0e75b6&style=flat" alt="azeemali14" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=azeemali14&label=Profile%20views&color=0e75b6&style=flat" alt="azeemali14" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azeemali14" alt="azeemali14" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azeemali14" alt="azeemali14" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/azeemali8" target="blank"><img src="https://img.shields.io/twitter/follow/azeemali8?logo=twitter&style=for-the-badge" alt="azeemali8" /></a> </p>
 
