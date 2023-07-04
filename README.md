@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact **I am lazy but I am passionate**
 
-### Blogs posts
+### :eyes: Profile Views
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 [![](https://visitcount.itsvg.in/api?id=azeemali14&label=Profile%20Views&color=12&icon=5&pretty=true)]()
