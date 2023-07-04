@@ -1,6 +1,36 @@
 # 💫 About Me:
-🔭 I’m currently working on PHP Laravel<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-<br><br>
+<!--🔭 I’m currently working on PHP Laravel<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<br><br> -->
+<h1 align="center">Hi 👋, I'm Azeem Ali</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azeemali14&label=Profile%20views&color=0e75b6&style=flat" alt="azeemali14" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azeemali14" alt="azeemali14" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/azeemali8" target="blank"><img src="https://img.shields.io/twitter/follow/azeemali8?logo=twitter&style=for-the-badge" alt="azeemali8" /></a> </p>
+
+- 🔭 I’m currently working on [React Laravel Blog](https://github.com/AzeemAli14/React_blog)
+
+- 🌱 I’m currently learning **Php Laravel and MERN Stack**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 🤝 I’m looking for help with **Apollo GraphQl**
+
+- 📝 I regularly write articles on [dev.to](dev.to)
+
+- 💬 Ask me about **react.js and next.js**
+
+- 📫 How to reach me **azeemzaidi86@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/azeem-ali-504a0a19b/](https://www.linkedin.com/in/azeem-ali-504a0a19b/)
+
+- ⚡ Fun fact **I am lazy but I am passionate**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 [![](https://visitcount.itsvg.in/api?id=azeemali14&label=Profile%20Views&color=12&icon=5&pretty=true)]()
 
 
