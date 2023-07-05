@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on [dev.to](dev.to)
 
-- 💬 Ask me about **react.js and next.js**
+- 💬 Ask me about **React.Js** **&** **Tailwind.CSS**
 
 - 📫 How to reach me **azeemzaidi86@gmail.com**
 
