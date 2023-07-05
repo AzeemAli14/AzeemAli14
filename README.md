@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **React.Js** **&** **Tailwind.CSS**
 
-- 📫 How to reach me **azeemzaidi86@gmail.com**
+- 📫 How to reach me [**Email me ASAP**](mailto:azeemzaidi86@gmail.com)
 
 - 📄 Know about my experiences [visit my **LinkedIn**](https://www.linkedin.com/in/azeem-ali-504a0a19b/)
 
