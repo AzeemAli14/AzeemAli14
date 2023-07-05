@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **azeemzaidi86@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/azeem-ali-504a0a19b/](https://www.linkedin.com/in/azeem-ali-504a0a19b/)
+- 📄 Know about my experiences [visit my LinkedIn](https://www.linkedin.com/in/azeem-ali-504a0a19b/)
 
 - ⚡ Fun fact **I am lazy but I am passionate**
 
