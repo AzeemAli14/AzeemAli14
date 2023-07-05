@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Apollo GraphQl**
+- 🤝 I’m looking for help with **Apollo GraphQL**
 
 - 📝 I regularly write articles on [dev.to](dev.to)
 
