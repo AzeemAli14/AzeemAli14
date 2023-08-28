@@ -65,7 +65,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=azeemali14&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/AzeemAli8)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://api.daily.dev/r/cAEF4uIZc)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
