@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azeemali14" alt="azeemali14" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/azeemali8" target="blank"><img src="https://img.shields.io/twitter/follow/azeemali8?logo=twitter&style=for-the-badge" alt="azeemali8" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/azeemali8" target="blank"><img src="https://img.shields.io/twitter/follow/azeemali8?logo=twitter&style=for-the-badge" alt="azeemali8" /></a> </p> -->
 
 - 🔭 I’m currently working on [React Laravel Blog](https://github.com/AzeemAli14/React_blog)
 
