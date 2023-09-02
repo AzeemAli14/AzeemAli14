@@ -21,13 +21,13 @@
 
 - 📝 I regularly write articles on [dev.to](dev.to)
 
-- 💬 Ask me about **React.Js** **&** **Tailwind.CSS**
+- 💬 Ask me about **Next.Js** **&** **Tailwind.CSS**
 
 - 📫 How to reach me [**Email me ASAP**](mailto:azeemzaidi86@gmail.com)
 
 - 📄 Know about my experiences [visit my **LinkedIn**](https://www.linkedin.com/in/azeem-ali-504a0a19b/)
 
-- ⚡ Fun fact **I am lazy but I am passionate**
+- ⚡ Fun fact **I am passionate and love for coding**
 
 ### :eyes: Profile Views
 <!-- BLOG-POST-LIST:START -->
