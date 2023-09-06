@@ -11,7 +11,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/azeemali8" target="blank"><img src="https://img.shields.io/twitter/follow/azeemali8?logo=twitter&style=for-the-badge" alt="azeemali8" /></a> </p> -->
 
-- 🔭 I’m currently working on [MERN Stack Blog]([https://github.com/AzeemAli14/React_blog](https://github.com/AzeemAli14/Coin-Blog))
+- 🔭 I’m currently working on [MERN Stack Blog]([https://github.com/AzeemAli14/Coin-Blog])
 
 - 🌱 I’m currently learning **MERN Stack**
 
