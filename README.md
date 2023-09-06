@@ -3,7 +3,7 @@
 <br><br> -->
 
 <h1 align="center">Hi 👋, I'm Azeem Ali</h1>
-<h3 align="center">A passionate Software Engineer & Full Stack Web Developer (PHP & NEXT.JS).</h3>
+<h3 align="center">A passionate Software Engineer & Full Stack Web Developer (LAMP + MERN Stack).</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=azeemali14&label=Profile%20views&color=0e75b6&style=flat" alt="azeemali14" /> </p>
 
@@ -11,9 +11,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/azeemali8" target="blank"><img src="https://img.shields.io/twitter/follow/azeemali8?logo=twitter&style=for-the-badge" alt="azeemali8" /></a> </p> -->
 
-- 🔭 I’m currently working on [React Laravel Blog](https://github.com/AzeemAli14/React_blog)
+- 🔭 I’m currently working on [MERN Stack Blog]([https://github.com/AzeemAli14/React_blog](https://github.com/AzeemAli14/Coin-Blog))
 
-- 🌱 I’m currently learning **Php Laravel and MERN Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
