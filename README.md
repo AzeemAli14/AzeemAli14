@@ -31,8 +31,10 @@
 - ⚡ Fun fact **I am passionate and love for coding**
 </br>
 ### :eyes: Profile Views
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azeemali14&label=Profile%20views&color=0e75b6&style=flat" alt="azeemali14" /> </p>
 <!-- [![](https://visitcount.itsvg.in/api?id=azeemali14&label=Profile%20Views&color=12&icon=5&pretty=true)]() -->
 
