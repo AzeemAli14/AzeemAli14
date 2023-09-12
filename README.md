@@ -29,7 +29,7 @@
 - 📄 Know about my experiences [visit my **LinkedIn**](https://www.linkedin.com/in/azeem-ali-504a0a19b/)
 
 - ⚡ Fun fact **I am passionate and love for coding**
-- 
+
 </br>
 
 :eyes: Profile Views
